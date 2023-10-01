@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming and mobile application development
 - 🏫 I’m currently learning in the College of Informatics Engineering, Department of Informatics Software Engineering, International University for Science and Renaissance
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Gmail: mutasimalkhouli@gmail.com
+- 📫 How to reach me 
+                    Gmail: mutasimalkhouli@gmail.com
                     📱 phone: +352 681 598 859
                     ✉ LinkedIn: https://www.linkedin.com/feed/
 
